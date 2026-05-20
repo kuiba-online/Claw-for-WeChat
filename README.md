@@ -1,6 +1,6 @@
 # Claw-for-WeChat — Chat Backup
 
-OpenClaw WeChat 聊天记录自动备份
+OpenClaw WeChat 聊天记录自动备份。每 30 分钟同步一次。
 
 ## 📂 文件结构
 
