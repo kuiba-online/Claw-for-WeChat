@@ -1,6 +1,6 @@
-# Session Summary — 2026-06-07T12:00:01-0700
+# Session Summary — 2026-06-21T12:00:01-0700
 - **agent:main:main** (c670e081…) — 4 msgs, 12922 tok, model=deepseek-v4-flash
-- **agent:main:openclaw-weixin:direct:o9cq804mxdpdhdsvb8zr2g_rigak@im.wechat** (7bc3d103…) — 45 msgs, 25723 tok, model=deepseek-v4-flash
+- **agent:main:openclaw-weixin:direct:o9cq804mxdpdhdsvb8zr2g_rigak@im.wechat** (85b297f1…) — 85 msgs, 29786 tok, model=deepseek-v4-flash
 - **agent:main:cron:8f74aa1d-e254-47b2-8abf-eaf0ffdf9961** (15b61508…) — 85 msgs, 0 tok, model=deepseek-v4-flash
 - **agent:main:cron:c338abb3-2dc0-4485-b09a-c2c11c9f1f77** (369cf009…) — 24 msgs, 17901 tok, model=deepseek-v4-flash
 - **agent:main:cron:06167587-a4a3-4064-b44a-7ab756ebaf32** (e1104850…) — 16 msgs, 14648 tok, model=deepseek-v4-flash
@@ -9,5 +9,3 @@
 - **agent:main:openclaw-weixin:group:agent:main:openclaw-weixin:direct:o9cq804mxdpdhdsvb8zr2g_rigak@im.wechat** (4791c31b…) — 4 msgs, 0 tok, model=?
 - **agent:main:openclaw-weixin:group:o9cq804mxdpdhdsvb8zr2g_rigak@im.wechat** (e453806b…) — 7 msgs, 0 tok, model=?
 - **agent:main:cron:a4796735-3df7-4893-be47-b7cf080844be** (395eac44…) — 2 msgs, 12110 tok, model=deepseek-v4-flash
-- **agent:main:explicit:verify-1779323800** (verify-1…) — 2 msgs, 15395 tok, model=deepseek-v4-pro
-- **agent:main:work** (89c42185…) — 12 msgs, 16254 tok, model=deepseek-v4-flash
