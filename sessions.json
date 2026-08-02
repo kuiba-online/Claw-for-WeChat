@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "c670e081-ce9d-4f52-ae69-7af28e9d682a",
-    "updatedAt": 1785091134835,
+    "updatedAt": 1785695934833,
     "sessionStartedAt": 1780272006968,
     "lastInteractionAt": 1780272247751,
     "systemSent": true,
@@ -363,8 +363,8 @@
     "pendingFinalDelivery": true,
     "pendingFinalDeliveryText": "LLM request timed out.\n\nThe model did not produce a response before the model idle timeout. Please try again, or increase `models.providers.<id>.timeoutSeconds` for slow local or self-hosted providers. If `agents.defaults.timeoutSeconds` or a run-specific timeout is lower, raise that ceiling too; provider timeouts cannot extend the whole agent run.",
     "pendingFinalDeliveryCreatedAt": 1780272247761,
-    "pendingFinalDeliveryLastAttemptAt": 1785091134835,
-    "pendingFinalDeliveryAttemptCount": 2750,
+    "pendingFinalDeliveryLastAttemptAt": 1785695934833,
+    "pendingFinalDeliveryAttemptCount": 3086,
     "pendingFinalDeliveryLastError": null,
     "deliveryContext": {
       "channel": "openclaw-weixin"
